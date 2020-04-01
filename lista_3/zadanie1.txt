@@ -1,0 +1,18 @@
+
+a)
+najwyższy priorytet: ++
+najniższy priorytet: =
+
+
+
+b)
+operator ++ zwraca kolejne znaki
+
+
+
+
+c)
+operator * służy do zdefiniowania wskaźnika
+
+e)
+wyrażenie jest zawsze prawdziwe, czyli pętla będzie wykonywać się w nieskończoność(aż do momentu gdy skończą się zasoby komputera)

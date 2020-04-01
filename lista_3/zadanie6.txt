@@ -1,0 +1,1 @@
+Programy dawały inne rezultaty na moim komputerze, wynikało to z różnic w działaniu kompilatorów 
