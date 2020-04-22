@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "cmath": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "cstdlib": "cpp",
+        "iosfwd": "cpp"
     }
 }
