@@ -52,7 +52,7 @@ Zespolona operator*(Zespolona const &a, Zespolona const &b)
 Zespolona operator/(Zespolona const &a, Zespolona const &b)
 {
     Zespolona c;
-    c.rz = (a.rz * b.rz + a.ur * b.ur) / pow(b.rz, 2) + pow(b.ur, 2);
-    c.ur = (b.rz * a.ur - a.rz * b.ur) / pow(b.rz, 2) + pow(b.ur, 2);
+    c.rz = (a.rz * b.rz + a.ur * b.ur) / (pow(b.rz, 2) + pow(b.ur, 2));
+    c.ur = (b.rz * a.ur - a.rz * b.ur) / (pow(b.rz, 2) + pow(b.ur, 2));
     return c;
 }
