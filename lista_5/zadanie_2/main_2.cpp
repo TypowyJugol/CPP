@@ -1,5 +1,5 @@
 #include <iostream>
-#include "stos.h"
+#include "stos_2.h"
 using namespace std;
 
 int main()
